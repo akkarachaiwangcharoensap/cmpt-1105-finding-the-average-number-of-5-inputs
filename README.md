@@ -1,0 +1,1 @@
+# cmpt-1105-finding-average-number-of-5-inputs
