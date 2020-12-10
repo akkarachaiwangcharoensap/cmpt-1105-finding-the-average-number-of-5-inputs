@@ -1,4 +1,4 @@
-# Cmpt 1105 | Finding The Average Number of 5 Inputs
+# CMPT 1105 | Finding The Average Number of 5 Inputs
 
 While loop
 ```python
